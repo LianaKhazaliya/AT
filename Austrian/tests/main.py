@@ -23,14 +23,14 @@ class PythonOrgSearch(unittest.TestCase):
     #def test_name_of_the_page_is_ok(self):
     #    self.assertIn('Austrian Airways', self.page.getPageName())
         
-    """def test_epmty_arrivall_city(self):
-                    self.assertTrue(self.page.check_arrivall_city_empty())
-            
-                def test_wrong_arrivall_city(self):
-                    self.assertTrue(self.page.check_arrivall_city_wrong())
-            
-                def test_right_arrivall_city(self):
-                    self.assertFalse(self.page.check_arrivall_city_good_fill())"""
+    def test_epmty_arrivall_city(self):
+        self.assertTrue(self.page.check_arrivall_city_empty())
+
+    def test_wrong_arrivall_city(self):
+        self.assertTrue(self.page.check_arrivall_city_wrong())
+
+    def test_right_arrivall_city(self):
+        self.assertFalse(self.page.check_arrivall_city_good_fill())
 
     def tearDown(self):
         self.page.driver.close()
