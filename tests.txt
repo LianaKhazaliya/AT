@@ -1,0 +1,91 @@
+1 test case
+
+	Проверка невозможности отправить ребенка одного в полет
+	Шаги: 
+	-https://book.austrian.com/app/fb.fly?pos=BY&l=en
+	-выбираем селект "Adults" 
+		вручную вводим "0"
+	Результат: выводится уведомление об ошибке с указанием диапазонов допустимых значений количества "Adults" и "Children (2 to 11 years)"
+
+2 test case
+
+	Проверка отсутствия возможности ввести дату раньше, чем текущая
+	Шаги:
+	-https://book.austrian.com/app/fb.fly?pos=BY&l=en
+	-в селекте даты "Departure date" пробуем ввести вчерашнюю дату
+	Результат: "Please choose a date within the next 361 days."
+
+3 test case
+
+	Проверка отсутствия возможности ввести дату прибытия раньше, чем дата отъезда
+	Шаги:
+	-https://book.austrian.com/app/fb.fly?pos=BY&l=en
+	-в селекте даты "Departing from" вводим дату
+	-в селекте "Return on" вводим дату на день раньше 
+	Результат: "The return flight date is before your outbound flight date."
+
+4 test case
+	
+	Проверка корректности формы для полета в одну сторону
+	Шаги:
+	-https://book.austrian.com/app/fb.fly?pos=BY&l=en
+	-нажатие на "One way"
+	Результат: отсутствие селекта "Return on"
+
+5 test case
+	
+	Проверка корректности фильтрации полетов 
+	Шаги:
+	-https://book.austrian.com/app/fb.fly?pos=BY&l=en
+	-в селекте "From" выбираем страну
+	-в селекте "To" выбираем страну
+	-в селекте даты "Departing from" вводим дату
+	-в селекте "Return on" вводим дату 
+	-нажимаем "Search flights"
+	-выбираем селект "Order by"
+	-выбираем в нем по чему сортировать
+	Результат: корректная сортировка по соответствующему полю
+
+6 test case
+	
+	Проверка отсутсвия возможности ввести несуществующий рейс
+	Шаги:
+	-https://book.austrian.com/app/fb.fly?pos=BY&l=en
+	-в селект "To" вводим название страны, в которую рейсы не предусмотрены
+	Резальтат: "This route cannot be booked online. Please contact the Guest Service Team."
+
+7 test case
+	
+	Проверка на валидность формы
+	Шаги:
+	-https://book.austrian.com/app/fb.fly?pos=BY&l=en
+	-не заполняя нажимаем "Search flights"
+	Результат: "Please enter a valid airport"
+
+8 test case
+	
+	Проверка возможности каждому взрослому взять с собой младенца
+	Шаги: 
+	-https://book.austrian.com/app/fb.fly?pos=BY&l=en
+	-в селекте "Adults" вводим число 2
+	-в селекте "Infants" вводим число 3
+	Резальтат: выводится указание с диапазонами допустимых значений
+
+9 test case
+
+	Проверка на недопуск более 9 человек ( то есть группы ) к обычному заказу билетов
+	Шаги: 
+	-https://book.austrian.com/app/fb.fly?pos=BY&l=en
+	-в селекте "Adults" выбираем 8
+	-в селекте "Children" выбираем 2
+	Результат: оповещение, выводится указание с диапазонами допустимых значений
+
+10 test case
+	
+	Пункт отправления не может совпадать с пунктом прибытия
+	Шаги:
+	-https://www.austrian.com.br/en/
+	-в селекте "From" выбираем страну
+	-в селекте "To" вводим эту же страну
+	-нажимаем "Search"
+Результат: "Round the world tickets and Sightsseing flights are bookable in our Callcenter: +43 5 1766 1000", под графой "To" уведомление об ошибке "Please enter a valid airport"

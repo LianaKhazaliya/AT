@@ -1,0 +1,1056 @@
+1546400979142	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.J3IigvIHlQX6"
+
+(firefox:21177): Gtk-WARNING **: 06:49:55.385: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:21177): Gtk-WARNING **: 06:49:55.385: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546401007029	Marionette	INFO	Listening on port 35739
+1546401008454	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546401008562	Marionette	DEBUG	[2147483649] Frame script loaded
+1546401008566	Marionette	DEBUG	[2147483649] Frame script registered
+1546401010482	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546401013902	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546401031382	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.qantas.com/gb/en.html
+1546401038728	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483663
+1546401038730	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483665
+1546401043213	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.qantas.com/gb/en.html
+1546401047346	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1546401050790	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1546401053413	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1546401053808	Marionette	INFO	Stopped listening on port 35739
+1546401067937	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fhYg38hraU4n"
+
+(firefox:21442): Gtk-WARNING **: 06:51:21.365: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:21442): Gtk-WARNING **: 06:51:21.365: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546401087063	Marionette	INFO	Listening on port 46785
+1546401087129	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546401087218	Marionette	DEBUG	[2147483649] Frame script loaded
+1546401087406	Marionette	DEBUG	[2147483649] Frame script registered
+1546401087453	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546401089789	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546401095112	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.qantas.com/gb/en.html
+1546401104150	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483663
+1546401104237	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483665
+1546401104619	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.qantas.com/gb/en.html
+1546401106893	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1546401112565	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1546401114246	Marionette	INFO	Stopped listening on port 46785
+1546401120560	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Ckk4HgSBIMRb"
+
+(firefox:21677): Gtk-WARNING **: 06:52:10.242: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:21677): Gtk-WARNING **: 06:52:10.242: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546401135155	Marionette	INFO	Listening on port 32835
+1546401135252	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546401135359	Marionette	DEBUG	[2147483649] Frame script loaded
+1546401135361	Marionette	DEBUG	[2147483649] Frame script registered
+1546401135411	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546401148546	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546401154412	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.qantas.com/gb/en.html
+1546401157105	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483664
+1546401157107	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483666
+1546401161330	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.qantas.com/gb/en.html
+1546401162983	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1546401165079	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1546401168243	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1546401168563	Marionette	INFO	Stopped listening on port 32835
+1546401171987	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.cD1zPe9FdkZN"
+
+(firefox:21893): Gtk-WARNING **: 06:52:53.856: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:21893): Gtk-WARNING **: 06:52:53.856: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546401177311	Marionette	INFO	Listening on port 44347
+1546401177415	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546401177515	Marionette	DEBUG	[2147483649] Frame script loaded
+1546401177541	Marionette	DEBUG	[2147483649] Frame script registered
+1546401177589	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546401179912	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546401184993	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.qantas.com/gb/en.html
+1546401187126	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483663
+1546401187156	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483665
+1546401191549	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.qantas.com/gb/en.html
+1546401192170	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1546401193506	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1546401195794	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1546401196165	Marionette	INFO	Stopped listening on port 44347
+JavaScript error: jar:file:///usr/lib/firefox/browser/omni.ja!/components/nsBrowserGlue.js, line 1055: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]
+1546401435495	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DNsEcEAE69Sz"
+
+(firefox:23138): Gtk-WARNING **: 06:57:19.527: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:23138): Gtk-WARNING **: 06:57:19.528: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546401447365	Marionette	INFO	Listening on port 34355
+1546401447433	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546401449336	Marionette	DEBUG	[2147483649] Frame script loaded
+1546401449402	Marionette	DEBUG	[2147483649] Frame script registered
+1546401449457	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546401451958	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546401454552	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546401457842	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+[Parent 23138, Gecko_IOThread] WARNING: pipe error (61): Соединение разорвано другой стороной: file /build/firefox-ap9sYq/firefox-62.0+linuxmint1+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1546401551373	Marionette	INFO	Stopped listening on port 34355
+1546402288387	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FGJpaBjOfl25"
+
+(firefox:23833): Gtk-WARNING **: 07:11:47.684: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:23833): Gtk-WARNING **: 07:11:47.684: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546402321574	Marionette	INFO	Listening on port 38327
+1546402323105	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546402323291	Marionette	DEBUG	[2147483649] Frame script loaded
+1546402325018	Marionette	DEBUG	[2147483649] Frame script registered
+1546402336048	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546418711384	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZbKTyC1GGfdT"
+
+(firefox:3769): Gtk-WARNING **: 11:45:13.545: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:3769): Gtk-WARNING **: 11:45:13.545: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546418717349	Marionette	INFO	Listening on port 46429
+1546418717437	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546418717528	Marionette	DEBUG	[2147483649] Frame script loaded
+1546418717537	Marionette	DEBUG	[2147483649] Frame script registered
+1546418717661	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546418718620	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546418721142	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546418723212	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+[Parent 3769, Gecko_IOThread] WARNING: pipe error (61): Соединение разорвано другой стороной: file /build/firefox-ap9sYq/firefox-62.0+linuxmint1+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1546419744787	Marionette	INFO	Stopped listening on port 46429
+1546421862870	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pOOp78Vc8daL"
+
+(firefox:5822): Gtk-WARNING **: 12:37:44.852: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:5822): Gtk-WARNING **: 12:37:44.852: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546421867976	Marionette	INFO	Listening on port 38143
+1546421867989	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546421868121	Marionette	DEBUG	[2147483649] Frame script loaded
+1546421868122	Marionette	DEBUG	[2147483649] Frame script registered
+1546421868244	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546421869133	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546421871753	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546421874049	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546421875068	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lCADncmmYoxw"
+
+(firefox:5987): Gtk-WARNING **: 12:37:56.738: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:5987): Gtk-WARNING **: 12:37:56.738: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546421880149	Marionette	INFO	Listening on port 34959
+1546421880196	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546421880303	Marionette	DEBUG	[2147483649] Frame script loaded
+1546421880305	Marionette	DEBUG	[2147483649] Frame script registered
+1546421880365	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546421881939	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546421883124	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546421885024	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546421885052	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.l9n14sXRFFR0"
+
+(firefox:6153): Gtk-WARNING **: 12:38:07.054: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:6153): Gtk-WARNING **: 12:38:07.054: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546421891906	Marionette	INFO	Listening on port 44537
+1546421891998	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546421892099	Marionette	DEBUG	[2147483649] Frame script loaded
+1546421892101	Marionette	DEBUG	[2147483649] Frame script registered
+1546421892120	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546421893713	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546421895340	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546421898040	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546421899062	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.TEroDm9zxCIf"
+
+(firefox:6358): Gtk-WARNING **: 12:38:22.341: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:6358): Gtk-WARNING **: 12:38:22.341: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546421906152	Marionette	INFO	Listening on port 44097
+1546421906259	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546421906397	Marionette	DEBUG	[2147483649] Frame script loaded
+1546421906405	Marionette	DEBUG	[2147483649] Frame script registered
+1546421906458	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546421910343	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546421911727	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546421913690	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546422000968	Marionette	INFO	Stopped listening on port 38143
+1546422000989	Marionette	INFO	Stopped listening on port 34959
+1546422006712	Marionette	INFO	Stopped listening on port 44537
+1546422008007	Marionette	INFO	Stopped listening on port 44097
+1546422301424	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DxHDiP6qWt7Z"
+
+(firefox:6698): Gtk-WARNING **: 12:45:11.747: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:6698): Gtk-WARNING **: 12:45:11.748: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546422317437	Marionette	INFO	Listening on port 39907
+1546422317477	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546422317569	Marionette	DEBUG	[2147483649] Frame script loaded
+1546422317600	Marionette	DEBUG	[2147483649] Frame script registered
+1546422317648	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546422318892	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546422320503	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546422322630	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546422322656	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KgI2qANcWAvc"
+
+(firefox:6902): Gtk-WARNING **: 12:45:24.347: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:6902): Gtk-WARNING **: 12:45:24.348: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546422327964	Marionette	INFO	Listening on port 40109
+1546422327990	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546422328101	Marionette	DEBUG	[2147483649] Frame script loaded
+1546422328116	Marionette	DEBUG	[2147483649] Frame script registered
+1546422328157	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546422329003	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546422330254	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546422332497	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546422333514	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.HUhRtIKhk2Hp"
+
+(firefox:7072): Gtk-WARNING **: 12:45:36.350: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:7072): Gtk-WARNING **: 12:45:36.350: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546422341202	Marionette	INFO	Listening on port 37019
+1546422341262	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546422341354	Marionette	DEBUG	[2147483649] Frame script loaded
+1546422341357	Marionette	DEBUG	[2147483649] Frame script registered
+1546422341383	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546422344917	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546422348186	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546422350945	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546422351022	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.P7U3ccMzu3A1"
+
+(firefox:7265): Gtk-WARNING **: 12:45:54.201: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:7265): Gtk-WARNING **: 12:45:54.213: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546422359911	Marionette	INFO	Listening on port 35751
+1546422360741	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546422360829	Marionette	DEBUG	[2147483649] Frame script loaded
+1546422360831	Marionette	DEBUG	[2147483649] Frame script registered
+1546422360859	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546422368658	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546422371354	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546422374497	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546422484512	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pUl3PIIOE1Pp"
+1546422492968	Marionette	INFO	Stopped listening on port 39907
+[Parent 6902, Gecko_IOThread] WARNING: pipe error (46): Соединение разорвано другой стороной: file /build/firefox-ap9sYq/firefox-62.0+linuxmint1+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+(firefox:7478): Gtk-WARNING **: 12:48:15.141: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:7478): Gtk-WARNING **: 12:48:15.141: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546422496939	Marionette	INFO	Stopped listening on port 40109
+1546422498114	Marionette	INFO	Stopped listening on port 37019
+1546422499946	Marionette	INFO	Stopped listening on port 35751
+1546422502080	Marionette	INFO	Listening on port 34981
+1546422502259	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546422502416	Marionette	DEBUG	[2147483649] Frame script loaded
+1546422502436	Marionette	DEBUG	[2147483649] Frame script registered
+1546422502474	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546422503306	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546422507390	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546422508994	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546422509125	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Kg9oOCU9VQ34"
+
+(firefox:7723): Gtk-WARNING **: 12:48:30.993: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:7723): Gtk-WARNING **: 12:48:30.993: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546422515218	Marionette	INFO	Listening on port 46609
+1546422515274	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546422515389	Marionette	DEBUG	[2147483649] Frame script loaded
+1546422515401	Marionette	DEBUG	[2147483649] Frame script registered
+1546422515443	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546422516203	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546422518300	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546422624851	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QTazAgyMzUEv"
+
+(firefox:7925): Gtk-WARNING **: 12:50:26.545: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:7925): Gtk-WARNING **: 12:50:26.545: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546422629769	Marionette	INFO	Listening on port 43495
+1546422629901	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546422629997	Marionette	DEBUG	[2147483649] Frame script loaded
+1546422629999	Marionette	DEBUG	[2147483649] Frame script registered
+1546422630033	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546422631981	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546422634301	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546422636266	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546422637323	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Up5jNwzgpzYY"
+
+(firefox:8103): Gtk-WARNING **: 12:50:39.052: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:8103): Gtk-WARNING **: 12:50:39.052: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546422642365	Marionette	INFO	Listening on port 40733
+1546422642448	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546422642555	Marionette	DEBUG	[2147483649] Frame script loaded
+1546422642557	Marionette	DEBUG	[2147483649] Frame script registered
+1546422642596	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546422644281	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546422662138	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2HzxMYS4xtEj"
+
+(firefox:8282): Gtk-WARNING **: 12:51:03.841: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:8282): Gtk-WARNING **: 12:51:03.841: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546422667489	Marionette	INFO	Listening on port 39477
+1546422667576	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546422667728	Marionette	DEBUG	[2147483649] Frame script loaded
+1546422667730	Marionette	DEBUG	[2147483649] Frame script registered
+1546422667762	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546422670947	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546422672303	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546422674386	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546422674438	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Rj6i4m04YYoR"
+
+(firefox:8452): Gtk-WARNING **: 12:51:18.785: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:8452): Gtk-WARNING **: 12:51:18.785: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546422691765	Marionette	INFO	Listening on port 34539
+1546422692279	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546422692381	Marionette	DEBUG	[2147483649] Frame script loaded
+1546422692389	Marionette	DEBUG	[2147483649] Frame script registered
+1546422692459	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546422694964	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546422696347	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546422699425	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546422699832	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.MrDXBQnMsNao"
+
+(firefox:8635): Gtk-WARNING **: 12:51:47.410: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:8635): Gtk-WARNING **: 12:51:47.410: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546422711718	Marionette	INFO	Listening on port 39381
+1546422711774	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546422711880	Marionette	DEBUG	[2147483649] Frame script loaded
+1546422711883	Marionette	DEBUG	[2147483649] Frame script registered
+1546422711927	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546422712729	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546422714312	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546422720001	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546422720051	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8TubgXmcuvMB"
+
+(firefox:8822): Gtk-WARNING **: 12:52:02.153: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:8822): Gtk-WARNING **: 12:52:02.154: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546422725984	Marionette	INFO	Listening on port 41259
+1546422726080	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546422726184	Marionette	DEBUG	[2147483649] Frame script loaded
+1546422726186	Marionette	DEBUG	[2147483649] Frame script registered
+1546422726227	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546422727855	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546422730486	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546422732279	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546422759538	Marionette	INFO	Stopped listening on port 39477
+1546422760583	Marionette	INFO	Stopped listening on port 34539
+[Parent 8822, Gecko_IOThread] WARNING: pipe error (47): Соединение разорвано другой стороной: file /build/firefox-ap9sYq/firefox-62.0+linuxmint1+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1546422761988	Marionette	INFO	Stopped listening on port 39381
+1546422762355	Marionette	INFO	Stopped listening on port 41259
+1546423035162	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WehPgT1akZiR"
+
+(firefox:9131): Gtk-WARNING **: 12:57:16.931: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:9131): Gtk-WARNING **: 12:57:16.931: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546423040111	Marionette	INFO	Listening on port 45527
+1546423040197	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546423040337	Marionette	DEBUG	[2147483649] Frame script loaded
+1546423040345	Marionette	DEBUG	[2147483649] Frame script registered
+1546423040378	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546423041305	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546423044441	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546423046542	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546423047653	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6HlIrwIsxZB6"
+
+(firefox:9305): Gtk-WARNING **: 12:57:29.601: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:9305): Gtk-WARNING **: 12:57:29.601: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546423053141	Marionette	INFO	Listening on port 39279
+1546423053215	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546423053393	Marionette	DEBUG	[2147483649] Frame script loaded
+1546423053402	Marionette	DEBUG	[2147483649] Frame script registered
+1546423053448	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546423055158	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546423057388	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546423059427	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546423059481	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YI1EnlCwH7cp"
+
+(firefox:9485): Gtk-WARNING **: 12:57:41.419: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:9485): Gtk-WARNING **: 12:57:41.419: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546423064769	Marionette	INFO	Listening on port 32773
+1546423064817	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546423064930	Marionette	DEBUG	[2147483649] Frame script loaded
+1546423064934	Marionette	DEBUG	[2147483649] Frame script registered
+1546423064999	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546423066686	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546423067777	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546423069809	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546423070856	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.AU5ZhhUG0lB4"
+
+(firefox:9649): Gtk-WARNING **: 12:57:52.612: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:9649): Gtk-WARNING **: 12:57:52.612: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546423076307	Marionette	INFO	Listening on port 36753
+1546423076393	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546423076496	Marionette	DEBUG	[2147483649] Frame script loaded
+1546423076504	Marionette	DEBUG	[2147483649] Frame script registered
+1546423076543	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546423078859	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546423080480	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546423083684	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546423153829	Marionette	INFO	Stopped listening on port 45527
+1546423154661	Marionette	INFO	Stopped listening on port 39279
+[Parent 9485, Gecko_IOThread] WARNING: pipe error (61): Соединение разорвано другой стороной: file /build/firefox-ap9sYq/firefox-62.0+linuxmint1+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1546423155705	Marionette	INFO	Stopped listening on port 32773
+1546423156698	Marionette	INFO	Stopped listening on port 36753
+1546423236802	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kpPGLC44Se2N"
+
+(firefox:9937): Gtk-WARNING **: 13:00:38.651: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:9937): Gtk-WARNING **: 13:00:38.651: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546423304882	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.H1zPSBi7WJgR"
+
+(firefox:10015): Gtk-WARNING **: 13:01:46.504: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:10015): Gtk-WARNING **: 13:01:46.504: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546423309790	Marionette	INFO	Listening on port 42303
+1546423309801	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546423309936	Marionette	DEBUG	[2147483649] Frame script loaded
+1546423309940	Marionette	DEBUG	[2147483649] Frame script registered
+1546423309984	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546423310739	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546423312491	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546423314388	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546423355339	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6Ven6h58G32c"
+
+(firefox:10185): Gtk-WARNING **: 13:02:37.043: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:10185): Gtk-WARNING **: 13:02:37.043: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546423360162	Marionette	INFO	Listening on port 40221
+1546423360266	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546423360394	Marionette	DEBUG	[2147483649] Frame script loaded
+1546423360398	Marionette	DEBUG	[2147483649] Frame script registered
+1546423360439	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546423361542	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546423364481	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546423365607	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546423545000	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kUalMn3hJak5"
+
+(firefox:10402): Gtk-WARNING **: 13:05:46.564: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:10402): Gtk-WARNING **: 13:05:46.565: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546423549614	Marionette	INFO	Listening on port 46591
+1546423549630	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546423549819	Marionette	DEBUG	[2147483649] Frame script loaded
+1546423549827	Marionette	DEBUG	[2147483649] Frame script registered
+1546423549880	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546423550660	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546423553362	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546423554553	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546423619226	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.B0oZmI4HlsrY"
+
+(firefox:10584): Gtk-WARNING **: 13:07:00.972: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:10584): Gtk-WARNING **: 13:07:00.972: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546423624099	Marionette	INFO	Listening on port 46187
+1546423624161	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546423624372	Marionette	DEBUG	[2147483649] Frame script loaded
+1546423624376	Marionette	DEBUG	[2147483649] Frame script registered
+1546423624426	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546423625260	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546423627275	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546423629440	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+1546424034796	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.eUIOlIyfZzK0"
+
+(firefox:10917): Gtk-WARNING **: 13:13:57.691: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:10917): Gtk-WARNING **: 13:13:57.691: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546424043569	Marionette	INFO	Listening on port 43469
+1546424044379	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546424044671	Marionette	DEBUG	[2147483649] Frame script loaded
+1546424044732	Marionette	DEBUG	[2147483649] Frame script registered
+1546424045224	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546424048189	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546424052610	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546424062880	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546424064442	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.F6EbvTGrZa5O"
+
+(firefox:11097): Gtk-WARNING **: 13:14:36.742: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:11097): Gtk-WARNING **: 13:14:36.796: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546424086684	Marionette	INFO	Listening on port 42985
+1546424087945	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546424088117	Marionette	DEBUG	[2147483649] Frame script loaded
+1546424088133	Marionette	DEBUG	[2147483649] Frame script registered
+1546424091739	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546424100458	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546424104415	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546424105410	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+[Parent 10185, Gecko_IOThread] WARNING: pipe error (47): Соединение разорвано другой стороной: file /build/firefox-ap9sYq/firefox-62.0+linuxmint1+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1546424149957	Marionette	INFO	Stopped listening on port 42303
+[Parent 10584, Gecko_IOThread] WARNING: pipe error (47): Соединение разорвано другой стороной: file /build/firefox-ap9sYq/firefox-62.0+linuxmint1+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 10917, Gecko_IOThread] WARNING: pipe error (68): Соединение разорвано другой стороной: file /build/firefox-ap9sYq/firefox-62.0+linuxmint1+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1546424153364	Marionette	INFO	Stopped listening on port 40221
+1546424155611	Marionette	INFO	Stopped listening on port 46591
+1546424157400	Marionette	INFO	Stopped listening on port 46187
+1546424157653	Marionette	INFO	Stopped listening on port 42985
+1546424157767	Marionette	INFO	Stopped listening on port 43469
+1546425193996	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.anSe5RpSRBMY"
+
+(firefox:11670): Gtk-WARNING **: 13:33:18.760: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:11670): Gtk-WARNING **: 13:33:18.760: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546425202765	Marionette	INFO	Listening on port 37635
+1546425202847	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546425202942	Marionette	DEBUG	[2147483649] Frame script loaded
+1546425202944	Marionette	DEBUG	[2147483649] Frame script registered
+1546425202989	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546425203841	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546425205426	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546425207301	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546425207355	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RVG9ICLPQWsP"
+
+(firefox:11863): Gtk-WARNING **: 13:33:29.133: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:11863): Gtk-WARNING **: 13:33:29.133: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546425212258	Marionette	INFO	Listening on port 41825
+1546425212289	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546425212509	Marionette	DEBUG	[2147483649] Frame script loaded
+1546425212526	Marionette	DEBUG	[2147483649] Frame script registered
+1546425212563	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546425213423	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546425216547	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546425220233	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546425221271	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vLiGrpHEc7Va"
+1546425307570	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fo00OfLXa03w"
+
+(firefox:12124): Gtk-WARNING **: 13:35:09.321: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:12124): Gtk-WARNING **: 13:35:09.322: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546425312382	Marionette	INFO	Listening on port 42775
+1546425312465	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546425312648	Marionette	DEBUG	[2147483649] Frame script loaded
+1546425312658	Marionette	DEBUG	[2147483649] Frame script registered
+1546425312734	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546425313660	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546425315368	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546425324117	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546425324125	Marionette	INFO	Stopped listening on port 42775
+[Parent 12124, Gecko_IOThread] WARNING: pipe error (46): Соединение разорвано другой стороной: file /build/firefox-ap9sYq/firefox-62.0+linuxmint1+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1546425326974	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4TDuhYGTK5Dx"
+1546426143624	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6aw9rpQ0P7Ma"
+
+(firefox:13469): Gtk-WARNING **: 13:49:06.094: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:13469): Gtk-WARNING **: 13:49:06.094: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546426149151	Marionette	INFO	Listening on port 36725
+1546426149176	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546426149315	Marionette	DEBUG	[2147483649] Frame script loaded
+1546426149378	Marionette	DEBUG	[2147483649] Frame script registered
+1546426149426	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546426150295	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546426152650	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546426155064	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546426155088	Marionette	INFO	Stopped listening on port 36725
+[Parent 13469, Gecko_IOThread] WARNING: pipe error (47): Соединение разорвано другой стороной: file /build/firefox-ap9sYq/firefox-62.0+linuxmint1+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1546426156733	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FeF8bjBv0Wmp"
+
+(firefox:13659): Gtk-WARNING **: 13:49:18.370: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:13659): Gtk-WARNING **: 13:49:18.370: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546426162011	Marionette	INFO	Listening on port 41499
+1546426162056	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546426162197	Marionette	DEBUG	[2147483649] Frame script loaded
+1546426162209	Marionette	DEBUG	[2147483649] Frame script registered
+1546426162245	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546426165245	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546426167306	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546426169314	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546426169329	Marionette	INFO	Stopped listening on port 41499
+1546426170974	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.aUx51zth5Zvd"
+
+(firefox:13835): Gtk-WARNING **: 13:49:32.572: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:13835): Gtk-WARNING **: 13:49:32.572: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546426175838	Marionette	INFO	Listening on port 36445
+1546426175928	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546426176051	Marionette	DEBUG	[2147483649] Frame script loaded
+1546426176064	Marionette	DEBUG	[2147483649] Frame script registered
+1546426176110	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546426177839	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546426180362	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546426182369	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546426182386	Marionette	INFO	Stopped listening on port 36445
+1546426183961	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GhPvA36sUVhQ"
+
+(firefox:14017): Gtk-WARNING **: 13:49:45.604: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:14017): Gtk-WARNING **: 13:49:45.604: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546426189052	Marionette	INFO	Listening on port 38451
+1546426189095	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546426189192	Marionette	DEBUG	[2147483649] Frame script loaded
+1546426189194	Marionette	DEBUG	[2147483649] Frame script registered
+1546426189228	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546426191268	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546426196385	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546426198528	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546426198541	Marionette	INFO	Stopped listening on port 38451
+[Parent 14017, Gecko_IOThread] WARNING: pipe error (47): Соединение разорвано другой стороной: file /build/firefox-ap9sYq/firefox-62.0+linuxmint1+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1546428787888	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.g0hBQqsEkQ53"
+
+(firefox:15926): Gtk-WARNING **: 14:33:09.563: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:15926): Gtk-WARNING **: 14:33:09.563: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546428792650	Marionette	INFO	Listening on port 46049
+1546428792711	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546428792813	Marionette	DEBUG	[2147483649] Frame script loaded
+1546428792814	Marionette	DEBUG	[2147483649] Frame script registered
+1546428792864	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546428793765	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546428795514	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546428797439	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546428935233	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3C9iecn7ItbV"
+
+(firefox:16121): Gtk-WARNING **: 14:35:36.863: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:16121): Gtk-WARNING **: 14:35:36.863: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546428940275	Marionette	INFO	Listening on port 40305
+1546428940374	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546428940471	Marionette	DEBUG	[2147483649] Frame script loaded
+1546428940473	Marionette	DEBUG	[2147483649] Frame script registered
+1546428940500	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546428941726	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546428943279	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546428945470	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+1546429390546	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.b6QIDkzvedwA"
+
+(firefox:16394): Gtk-WARNING **: 14:43:23.156: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:16394): Gtk-WARNING **: 14:43:23.156: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546429410772	Marionette	INFO	Listening on port 41053
+1546429410919	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546429411011	Marionette	DEBUG	[2147483649] Frame script loaded
+1546429411804	Marionette	DEBUG	[2147483649] Frame script registered
+1546429412034	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546429412841	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546429416864	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546429419080	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546429419094	Marionette	INFO	Stopped listening on port 41053
+                                                                                                                            1546444293986	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.HCU1I4LWwQTo"
+
+(firefox:6418): Gtk-WARNING **: 18:51:38.990: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:6418): Gtk-WARNING **: 18:51:38.990: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546444304319	Marionette	INFO	Listening on port 33567
+1546444304391	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546444304485	Marionette	DEBUG	[2147483649] Frame script loaded
+1546444304495	Marionette	DEBUG	[2147483649] Frame script registered
+1546444305267	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546444308118	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546444310185	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546444311983	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546444312000	Marionette	INFO	Stopped listening on port 33567
+1546444432727	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZRTFWKtROXno"
+
+(firefox:6677): Gtk-WARNING **: 18:53:54.690: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:6677): Gtk-WARNING **: 18:53:54.690: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546444438011	Marionette	INFO	Listening on port 34369
+1546444438057	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546444438217	Marionette	DEBUG	[2147483649] Frame script loaded
+1546444438223	Marionette	DEBUG	[2147483649] Frame script registered
+1546444438272	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546444439410	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546444440966	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546444444022	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546444444050	Marionette	INFO	Stopped listening on port 34369
+1546444833395	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.C9IawmWqvVj1"
+
+(firefox:7012): Gtk-WARNING **: 19:00:35.240: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:7012): Gtk-WARNING **: 19:00:35.240: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546444838995	Marionette	INFO	Listening on port 33509
+1546444839155	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546444839268	Marionette	DEBUG	[2147483649] Frame script loaded
+1546444839287	Marionette	DEBUG	[2147483649] Frame script registered
+1546444839331	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546444840665	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546444842293	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546444845098	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546444845124	Marionette	INFO	Stopped listening on port 33509
+1546444848171	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.89Tj6nOInuP4"
+
+(firefox:7194): Gtk-WARNING **: 19:00:49.925: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:7194): Gtk-WARNING **: 19:00:49.925: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546444853286	Marionette	INFO	Listening on port 43851
+1546444853401	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546444853501	Marionette	DEBUG	[2147483649] Frame script loaded
+1546444853503	Marionette	DEBUG	[2147483649] Frame script registered
+1546444853550	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546444855401	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546444857557	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546444859275	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546444859311	Marionette	INFO	Stopped listening on port 43851
+1546444862339	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.9mGwiaaqKcoW"
+
+(firefox:7376): Gtk-WARNING **: 19:01:04.287: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:7376): Gtk-WARNING **: 19:01:04.287: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546444867887	Marionette	INFO	Listening on port 33067
+1546444867971	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546444868084	Marionette	DEBUG	[2147483649] Frame script loaded
+1546444868087	Marionette	DEBUG	[2147483649] Frame script registered
+1546444868134	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546444871480	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546444873440	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546444875080	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546444875098	Marionette	INFO	Stopped listening on port 33067
+[Parent 7376, Gecko_IOThread] WARNING: pipe error (47): Соединение разорвано другой стороной: file /build/firefox-ap9sYq/firefox-62.0+linuxmint1+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1546444878119	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zAZiZ0a3TK2b"
+
+(firefox:7560): Gtk-WARNING **: 19:01:19.840: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:7560): Gtk-WARNING **: 19:01:19.840: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546444883333	Marionette	INFO	Listening on port 37601
+1546444883454	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546444883555	Marionette	DEBUG	[2147483649] Frame script loaded
+1546444883556	Marionette	DEBUG	[2147483649] Frame script registered
+1546444883597	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546444886231	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546444888036	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546444889931	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546444889957	Marionette	INFO	Stopped listening on port 37601
+1546444891986	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.cNHOEbe9YWso"
+
+(firefox:7734): Gtk-WARNING **: 19:01:33.844: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:7734): Gtk-WARNING **: 19:01:33.844: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546444897664	Marionette	INFO	Listening on port 44047
+1546444897729	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546444897898	Marionette	DEBUG	[2147483649] Frame script loaded
+1546444897902	Marionette	DEBUG	[2147483649] Frame script registered
+1546444897950	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546444900106	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546444901635	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546444904734	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546444904770	Marionette	INFO	Stopped listening on port 44047
+[Parent 7734, Gecko_IOThread] WARNING: pipe error (47): Соединение разорвано другой стороной: file /build/firefox-ap9sYq/firefox-62.0+linuxmint1+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1546528726822	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QSPgBhbPoitY"
+
+(firefox:2311): Gtk-WARNING **: 18:18:54.748: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:2311): Gtk-WARNING **: 18:18:54.749: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546528817380	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Xehim2rQzChH"
+
+(firefox:2831): Gtk-WARNING **: 18:20:19.250: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:2831): Gtk-WARNING **: 18:20:19.250: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546528824947	Marionette	INFO	Listening on port 36479
+1546528825049	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546528825197	Marionette	DEBUG	[2147483649] Frame script loaded
+1546528825247	Marionette	DEBUG	[2147483649] Frame script registered
+1546528825515	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.jyzhvNMMwETj"
+
+(firefox:2999): Gtk-WARNING **: 18:20:28.388: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:2999): Gtk-WARNING **: 18:20:28.388: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546528832704	Marionette	INFO	Listening on port 40215
+1546528832770	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546528832924	Marionette	DEBUG	[2147483649] Frame script loaded
+1546528832941	Marionette	DEBUG	[2147483649] Frame script registered
+1546528833102	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546528834260	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546528836655	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546528839596	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546528839624	Marionette	INFO	Stopped listening on port 40215
+1546528843103	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.uNg3Oh2MAQ9b"
+
+(firefox:3225): Gtk-WARNING **: 18:20:46.032: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:3225): Gtk-WARNING **: 18:20:46.032: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546528850862	Marionette	INFO	Listening on port 33509
+1546528850959	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546528851103	Marionette	DEBUG	[2147483649] Frame script loaded
+1546528851198	Marionette	DEBUG	[2147483649] Frame script registered
+1546528851247	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546528852055	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546528853944	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546528857180	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546528857230	Marionette	INFO	Stopped listening on port 33509
+1546528861178	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Il1axSIwEZ0T"
+
+(firefox:4439): Gtk-WARNING **: 18:21:02.845: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:4439): Gtk-WARNING **: 18:21:02.845: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546528866331	Marionette	INFO	Listening on port 43331
+1546528866401	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546528866502	Marionette	DEBUG	[2147483649] Frame script loaded
+1546528866504	Marionette	DEBUG	[2147483649] Frame script registered
+1546528866547	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546528867483	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546528868930	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546528871428	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546528871445	Marionette	INFO	Stopped listening on port 43331
+1546528874461	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FSPakceeVnnw"
+
+(firefox:4610): Gtk-WARNING **: 18:21:16.076: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:4610): Gtk-WARNING **: 18:21:16.077: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546528879543	Marionette	INFO	Listening on port 37327
+1546528879583	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546528879682	Marionette	DEBUG	[2147483649] Frame script loaded
+1546528879684	Marionette	DEBUG	[2147483649] Frame script registered
+1546528879739	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546528881525	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546528882988	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546528884487	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546528884515	Marionette	INFO	Stopped listening on port 37327
+1546528887040	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tkfRExGV82Tw"
+
+(firefox:4776): Gtk-WARNING **: 18:21:29.823: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:4776): Gtk-WARNING **: 18:21:29.823: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546528894859	Marionette	INFO	Listening on port 43705
+1546528894886	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546528895027	Marionette	DEBUG	[2147483649] Frame script loaded
+1546528895035	Marionette	DEBUG	[2147483649] Frame script registered
+1546528895110	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546528896992	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546528898469	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546528900330	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546528900369	Marionette	DEBUG	[2147483649] Received DOM event unload for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546528900380	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1546528900380	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483654
+1546528900381	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483649
+1546528901616	Marionette	INFO	Stopped listening on port 43705
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+1546529316290	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BgGp9JpukPJ7"
+
+(firefox:6074): Gtk-WARNING **: 18:28:37.910: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:6074): Gtk-WARNING **: 18:28:37.911: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546529321068	Marionette	INFO	Listening on port 34581
+1546529321118	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546529321274	Marionette	DEBUG	[2147483649] Frame script loaded
+1546529321284	Marionette	DEBUG	[2147483649] Frame script registered
+1546529322321	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CRu1GuEnm6G5"
+
+(firefox:6224): Gtk-WARNING **: 18:28:44.350: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:6224): Gtk-WARNING **: 18:28:44.350: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546529328326	Marionette	INFO	Listening on port 36439
+1546529328354	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546529328478	Marionette	DEBUG	[2147483649] Frame script loaded
+1546529328485	Marionette	DEBUG	[2147483649] Frame script registered
+1546529328517	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546529329687	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546529331105	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546529335267	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546529335293	Marionette	INFO	Stopped listening on port 36439
+[Parent 6224, Gecko_IOThread] WARNING: pipe error (47): Соединение разорвано другой стороной: file /build/firefox-ap9sYq/firefox-62.0+linuxmint1+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1546529336815	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.isB4sdVXErYP"
+
+(firefox:6407): Gtk-WARNING **: 18:28:58.439: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:6407): Gtk-WARNING **: 18:28:58.439: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546529341777	Marionette	INFO	Listening on port 36089
+1546529341846	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546529341948	Marionette	DEBUG	[2147483649] Frame script loaded
+1546529341952	Marionette	DEBUG	[2147483649] Frame script registered
+1546529341982	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546529342967	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546529344321	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546529346338	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546529346363	Marionette	INFO	Stopped listening on port 36089
+1546529348074	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VjQ0zRPQF9Uh"
+
+(firefox:6622): Gtk-WARNING **: 18:29:09.728: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:6622): Gtk-WARNING **: 18:29:09.728: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546529353363	Marionette	INFO	Listening on port 33447
+1546529353415	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546529353509	Marionette	DEBUG	[2147483649] Frame script loaded
+1546529353510	Marionette	DEBUG	[2147483649] Frame script registered
+1546529353539	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546529354790	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546529356289	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546529358438	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546529358469	Marionette	INFO	Stopped listening on port 33447
+[Parent 6622, Gecko_IOThread] WARNING: pipe error (47): Соединение разорвано другой стороной: file /build/firefox-ap9sYq/firefox-62.0+linuxmint1+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+1546529769149	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.o4OWERLzxY82"
+
+(firefox:6888): Gtk-WARNING **: 18:36:10.722: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:6888): Gtk-WARNING **: 18:36:10.722: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546529773822	Marionette	INFO	Listening on port 39725
+1546529773879	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546529773988	Marionette	DEBUG	[2147483649] Frame script loaded
+1546529774007	Marionette	DEBUG	[2147483649] Frame script registered
+1546529775074	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.TVpkO34x0x5C"
+
+(firefox:7029): Gtk-WARNING **: 18:36:16.971: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:7029): Gtk-WARNING **: 18:36:16.971: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546529780857	Marionette	INFO	Listening on port 39695
+1546529780905	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546529781019	Marionette	DEBUG	[2147483649] Frame script loaded
+1546529781049	Marionette	DEBUG	[2147483649] Frame script registered
+1546529781092	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546529784697	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546529786331	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546529788059	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546529788077	Marionette	INFO	Stopped listening on port 39695
+[Parent 7029, Gecko_IOThread] WARNING: pipe error (47): Соединение разорвано другой стороной: file /build/firefox-ap9sYq/firefox-62.0+linuxmint1+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1546529886831	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.bIXzpegjlHhG"
+
+(firefox:7225): Gtk-WARNING **: 18:38:08.410: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:7225): Gtk-WARNING **: 18:38:08.410: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546529891574	Marionette	INFO	Listening on port 42611
+1546529891649	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546529891745	Marionette	DEBUG	[2147483649] Frame script loaded
+1546529891757	Marionette	DEBUG	[2147483649] Frame script registered
+1546529931000	Marionette	INFO	Stopped listening on port 42611
+1546529948076	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Mf2HSLQypb9U"
+
+(firefox:7409): Gtk-WARNING **: 18:39:10.115: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:7409): Gtk-WARNING **: 18:39:10.115: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546529953207	Marionette	INFO	Listening on port 45365
+1546529953310	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546529953441	Marionette	DEBUG	[2147483649] Frame script loaded
+1546529953445	Marionette	DEBUG	[2147483649] Frame script registered
+1546529954486	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4FY5hMXmw82s"
+
+(firefox:7561): Gtk-WARNING **: 18:39:16.610: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:7561): Gtk-WARNING **: 18:39:16.612: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546529960350	Marionette	INFO	Listening on port 44503
+1546529960422	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546529960522	Marionette	DEBUG	[2147483649] Frame script loaded
+1546529960523	Marionette	DEBUG	[2147483649] Frame script registered
+1546529960562	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546529961615	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546529962917	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546529964999	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546529965019	Marionette	INFO	Stopped listening on port 44503
+1546530001950	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.D0AFUds5MzPP"
+
+(firefox:7751): Gtk-WARNING **: 18:40:03.584: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:7751): Gtk-WARNING **: 18:40:03.584: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546530006675	Marionette	INFO	Listening on port 33243
+1546530006802	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546530006898	Marionette	DEBUG	[2147483649] Frame script loaded
+1546530006902	Marionette	DEBUG	[2147483649] Frame script registered
+1546530006944	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sIAm53zoCrI7"
+
+(firefox:7893): Gtk-WARNING **: 18:40:09.195: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:7893): Gtk-WARNING **: 18:40:09.195: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546530013458	Marionette	INFO	Listening on port 34331
+1546530013516	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546530013619	Marionette	DEBUG	[2147483649] Frame script loaded
+1546530013621	Marionette	DEBUG	[2147483649] Frame script registered
+1546530013658	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546530015250	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546530016634	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546530017997	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546530018014	Marionette	INFO	Stopped listening on port 34331
+[Parent 7893, Gecko_IOThread] WARNING: pipe error (47): Соединение разорвано другой стороной: file /build/firefox-ap9sYq/firefox-62.0+linuxmint1+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1546530132570	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZGXfVTWyM737"
+
+(firefox:8129): Gtk-WARNING **: 18:42:14.212: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:8129): Gtk-WARNING **: 18:42:14.212: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546530137275	Marionette	INFO	Listening on port 44979
+1546530137308	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546530137437	Marionette	DEBUG	[2147483649] Frame script loaded
+1546530137438	Marionette	DEBUG	[2147483649] Frame script registered
+1546530138491	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FW2HqAw0bRgc"
+
+(firefox:8272): Gtk-WARNING **: 18:42:20.505: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:8272): Gtk-WARNING **: 18:42:20.505: Theme parsing error: <data>:1:78: Expected ')' in color definition
+1546530144319	Marionette	INFO	Listening on port 32913
+1546530144364	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546530144547	Marionette	DEBUG	[2147483649] Frame script loaded
+1546530144555	Marionette	DEBUG	[2147483649] Frame script registered
+1546530144647	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1546530146523	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1546530148516	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546530150178	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://book.austrian.com/app/fb.fly?pos=BY&l=en
+1546530150203	Marionette	INFO	Stopped listening on port 32913
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+1546530186743	Marionette	INFO	Stopped listening on port 44979
+1546530187786	Marionette	INFO	Stopped listening on port 33243
+1546530189358	Marionette	INFO	Stopped listening on port 45365
+1546530190375	Marionette	INFO	Stopped listening on port 39725
+1546530191589	Marionette	INFO	Stopped listening on port 34581
+1546530193204	Marionette	INFO	Stopped listening on port 36479
